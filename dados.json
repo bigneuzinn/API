@@ -1,0 +1,23 @@
+{
+    "nome": "Cheetos",
+    "sabor": "Requeijao",
+    "fabricante":"ElmaChips",
+    "cor": "Azul",
+    "price": "R$ 3,50",
+    "image": "<img src='img/CHEETOS.png' width= '400px'>",
+
+    "nome2": "Cheetos2",
+    "sabor2": "Queijo",
+    "fabricante2":"ElmaChips",
+    "cor2": "Amarelo",
+    "price2": "R$ 3,49",
+    "image2": "<img src='img/queijo.png' width='400px'>",
+
+    "nome3": "Cheetos3",
+    "sabor3": "Parmesao",
+    "fabricante3":"ElmaChips",
+    "cor3": "Laranja",
+    "price3": "R$ 3,69",
+    "image3": "<img src='img/parmesao.png' width='400px'>"
+
+}
